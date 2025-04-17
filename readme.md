@@ -6,10 +6,10 @@ I love relative numberline, but need standard numberline, so this gives me both.
 
 ## Install
 
-Copy `plugin/relative_highlight.vim` into your Vim plugin path, or use a plugin manager like `vim-plug`:
+Copy `plugin/relative_highlight` into your Vim plugin path, or use a plugin manager like `vim-plug`:
 
 ```vim
-Plug 'mendokusai/relative_highlight.vim'
+Plug 'mendokusai/relative_highlight'
 ```
 
 ## Customisation
