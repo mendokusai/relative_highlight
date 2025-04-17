@@ -4,6 +4,15 @@
 This is a simple tool I've been wanting to try for a long time.
 I love relative numberline, but need standard numberline, so this gives me both.
 
+## Install
+
+Copy `plugin/relative_highlight.vim` into your Vim plugin path, or use a plugin manager like `vim-plug`:
+
+```vim
+Plug 'yourusername/relative_highlight.vim'
+
+## Customisation
+
 ```vim
     let s:default_colors = {
           \ 'current_line': {'cterm': 'Yellow', 'gui': '#ffcc00'},
