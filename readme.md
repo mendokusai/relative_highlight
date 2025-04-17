@@ -1,4 +1,4 @@
-# relative_highlight.vim
+# relative_highlight
 ---
 
 This is a simple tool I've been wanting to try for a long time.
