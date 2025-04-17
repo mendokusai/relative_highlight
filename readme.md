@@ -9,7 +9,8 @@ I love relative numberline, but need standard numberline, so this gives me both.
 Copy `plugin/relative_highlight.vim` into your Vim plugin path, or use a plugin manager like `vim-plug`:
 
 ```vim
-Plug 'yourusername/relative_highlight.vim'
+Plug 'mendokusai/relative_highlight.vim'
+```
 
 ## Customisation
 
